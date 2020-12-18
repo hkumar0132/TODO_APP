@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyDLa8VfSBq_CsJErY1dy4PigVWD0B2kAf0",
+    apiKey: "", //You can use your own API key here
     authDomain: "todo-app-66af4.firebaseapp.com",
     databaseURL: "https://todo-app-66af4.firebaseio.com",
     projectId: "todo-app-66af4",
